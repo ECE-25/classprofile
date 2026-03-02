@@ -1,0 +1,15 @@
+title: "ECE 2025 Class Profile"
+description: "Lightweight viewer for survey responses."
+baseurl: "/classprofile"
+url: "https://ece-25.github.io"
+permalink: pretty
+plugins: []
+exclude:
+  - README.md
+  - data/form_b.csv
+  - data/parse_data.py
+  - node_modules
+  - package.json
+  - package-lock.json
+  - tsconfig.json
+  - src

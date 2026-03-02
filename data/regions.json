@@ -1,0 +1,34 @@
+{
+  "canada": [
+    "canada",
+    "ontario",
+    "greater toronto area",
+    "gta",
+    "toronto",
+    "kitchener",
+    "waterloo",
+    "kitchener / waterloo",
+    "kitchener-waterloo",
+    "ottawa",
+    "british columbia",
+    "vancouver",
+    "other ontario",
+    "other canada"
+  ],
+  "us": [
+    "us",
+    "usa",
+    "united states",
+    "america",
+    "bay area",
+    "san francisco",
+    "san francisco bay area",
+    "seattle",
+    "austin",
+    "new york",
+    "new york city"
+  ],
+  "remote": [
+    "remote"
+  ]
+}
